@@ -1,0 +1,5 @@
+1. Go to Amazon domain
+2. Select all categories from the dropdown menu
+3. Search for iPhones in the search box
+4. Use For Loop to Read through the results and get the first 5 results
+5. Save them to a text file
